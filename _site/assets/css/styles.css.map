@@ -1,0 +1,14 @@
+{
+	"version": 3,
+	"file": "styles.css",
+	"sources": [
+		"styles.scss",
+		"_sass/main.scss"
+	],
+	"sourcesContent": [
+		"@import \"main\";\n",
+		".current {\n  color: green;\n  }\n\n.main-grey {\n  background-color: #F2F1E8;\n  color: #050533;\n  }\n\n"
+	],
+	"names": [],
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACX;;AAEH,AAAA,UAAU,CAAC,EACT,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,OAAO,GACb"
+}

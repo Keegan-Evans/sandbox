@@ -1,0 +1,17 @@
+---
+layout: default
+title: Food
+---
+<br>
+This page contains various recipes and other food related *tidbits*.
+
+<ul>
+	
+{% for food in site.food %}
+  <li>
+      <h2><a href="{{ food.url }}">{{ food.title }}</a></h2>
+      <3>{{ food.description }}</h3>
+  </li>
+{% endfor %}
+
+</ul>
