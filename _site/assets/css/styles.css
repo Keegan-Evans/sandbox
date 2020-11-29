@@ -2,4 +2,6 @@
 
 .main-grey { background-color: #F2F1E8; color: #050533; }
 
+.custom-color { --dark-orange: hsl(21, 100%, 57%); --lighter-orange: hsl(34, 100%, 65%); --background-pale-orange: hsl(52, 100%, 81%); --light-teal: hsl(146, 100%, 82%); --dark-blue: hsl(225, 100%, 28%); }
+
 /*# sourceMappingURL=styles.css.map */

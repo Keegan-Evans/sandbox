@@ -7,8 +7,8 @@
 	],
 	"sourcesContent": [
 		"@import \"main\";\n",
-		".current {\n  color: green;\n  }\n\n.main-grey {\n  background-color: #F2F1E8;\n  color: #050533;\n  }\n\n"
+		".current {\r\n  color: green;\r\n  }\r\n\r\n.main-grey {\r\n  background-color: #F2F1E8;\r\n  color: #050533;\r\n  }\r\n\r\n.custom-color {\r\n\t--dark-orange: hsl(21, 100%, 57%);\r\n\t--lighter-orange: hsl(34, 100%, 65%);\r\n\t--background-pale-orange: hsl(52, 100%, 81%);\r\n\t--light-teal: hsl(146, 100%, 82%);\r\n\t--dark-blue: hsl(225, 100%, 28%);\r\n\r\n  }\r\n"
 	],
 	"names": [],
-	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACX;;AAEH,AAAA,UAAU,CAAC,EACT,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,OAAO,GACb"
+	"mappings": "ACAA,AAAA,QAAQ,CAAC,EACP,KAAK,EAAE,KAAK,GACX;;AAEH,AAAA,UAAU,CAAC,EACT,gBAAgB,EAAE,OAAO,EACzB,KAAK,EAAE,OAAO,GACb;;AAEH,AAAA,aAAa,CAAC,EACb,aAAa,CAAA,mBAAC,EACd,gBAAgB,CAAA,mBAAC,EACjB,wBAAwB,CAAA,mBAAC,EACzB,YAAY,CAAA,oBAAC,EACb,WAAW,CAAA,oBAAC,GAEV"
 }
